@@ -1,0 +1,9 @@
+C:\Users\vitae\source\repos\SeleniumTestProject\SeleniumTest.Framework\obj\Debug\netcoreapp3.1\SeleniumTest.Framework.AssemblyInfoInputs.cache
+C:\Users\vitae\source\repos\SeleniumTestProject\SeleniumTest.Framework\obj\Debug\netcoreapp3.1\SeleniumTest.Framework.AssemblyInfo.cs
+C:\Users\vitae\source\repos\SeleniumTestProject\SeleniumTest.Framework\bin\Debug\netcoreapp3.1\SeleniumTest.Framework.deps.json
+C:\Users\vitae\source\repos\SeleniumTestProject\SeleniumTest.Framework\bin\Debug\netcoreapp3.1\SeleniumTest.Framework.dll
+C:\Users\vitae\source\repos\SeleniumTestProject\SeleniumTest.Framework\bin\Debug\netcoreapp3.1\SeleniumTest.Framework.pdb
+C:\Users\vitae\source\repos\SeleniumTestProject\SeleniumTest.Framework\obj\Debug\netcoreapp3.1\SeleniumTest.Framework.dll
+C:\Users\vitae\source\repos\SeleniumTestProject\SeleniumTest.Framework\obj\Debug\netcoreapp3.1\SeleniumTest.Framework.pdb
+C:\Users\vitae\source\repos\SeleniumTestProject\SeleniumTest.Framework\bin\Debug\netcoreapp3.1\Data\InputData.json
+C:\Users\vitae\source\repos\SeleniumTestProject\SeleniumTest.Framework\bin\Debug\netcoreapp3.1\Data\Config.json
